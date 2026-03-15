@@ -1,2 +1,2 @@
-this is about git class
+this is about git class. i am adding content in repository 
 
